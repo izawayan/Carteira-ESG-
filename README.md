@@ -39,8 +39,8 @@ O sistema permite ao usuário:
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/esg_app.git
-cd esg_app
+git clone https://github.com/matheuspc3/Carteira-ESG-
+cd Carteira-ESG-
 ```
 
 ### 2. Crie um ambiente virtual
@@ -93,6 +93,7 @@ Acesse o vídeo introdutório sobre ESG:
 👉 [O que é ESG (YouTube)](https://www.youtube.com/watch?v=JPdwEmghBUg)
 
 ---
+## #GOFINANCE
 <img width="350" height="350" alt="Logo_Tradicional_Completa" src="https://github.com/user-attachments/assets/aade90b3-1a32-40e9-ac80-10fd0d445d40" />
 
 ## 📜 Licença
