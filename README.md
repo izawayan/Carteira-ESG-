@@ -1,11 +1,11 @@
-# 🌱 ESG App - Painel Interativo em Streamlit
+# 🌱 ESG App - Painel Interativo em Streamlit 
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## 📌 Sobre o Projeto
-Este projeto foi desenvolvido para a **SEPEX (Semana de Extensão, Pesquisa e Ensino)**, com o objetivo de **apresentar de forma interativa o conceito de ESG (Environmental, Social and Governance)** e demonstrar como esses fatores podem influenciar o mercado financeiro.
+Este projeto foi desenvolvido pela liga de investimento Wolf Finance para a **SEPEX (Semana de Extensão, Pesquisa e Ensino)**, com o objetivo de **apresentar de forma interativa o conceito de ESG (Environmental, Social and Governance)** e demonstrar como esses fatores podem influenciar o mercado financeiro.
 
 O sistema permite ao usuário:
 - 📈 **Montar uma carteira ESG personalizada** com até 6 ações.
@@ -93,6 +93,7 @@ Acesse o vídeo introdutório sobre ESG:
 👉 [O que é ESG (YouTube)](https://www.youtube.com/watch?v=JPdwEmghBUg)
 
 ---
+<img width="350" height="350" alt="Logo_Tradicional_Completa" src="https://github.com/user-attachments/assets/aade90b3-1a32-40e9-ac80-10fd0d445d40" />
 
 ## 📜 Licença
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
