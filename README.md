@@ -9,14 +9,20 @@ Este projeto foi desenvolvido para a **SEPEX (Semana de Extensão, Pesquisa e En
 
 O sistema permite ao usuário:
 - 📈 **Montar uma carteira ESG personalizada** com até 6 ações.
-- 💹 **Comparar a performance da carteira** com benchmarks como **S&P500** e **Ibovespa**.
+- 💹 **Comparar a performance da carteira** com benchmarks.
 - 🏭 **Explorar informações sobre empresas ESG** e entender porque são consideradas sustentáveis.
 - 🌍 **Aprender o que é ESG** em uma página educativa, com resumo histórico e vídeo explicativo.
 
 ---
 
 ## 🖼️ Demonstração
-*(adicione prints do app rodando, ex.: página da carteira, página "O que é ESG")*
+<img width="1916" height="784" alt="image" src="https://github.com/user-attachments/assets/795fd97b-841f-439e-a7dd-4941261ceca1" />
+<img width="1896" height="889" alt="image" src="https://github.com/user-attachments/assets/7c495845-3de0-4dfc-a4c6-71847bfe17b1" />
+<img width="1878" height="897" alt="image" src="https://github.com/user-attachments/assets/877348cb-9390-4e13-8aae-f217d7025871" />
+<img width="1900" height="677" alt="image" src="https://github.com/user-attachments/assets/9d2bad02-e918-4dd9-a730-3d0fd14d0160" />
+<img width="1899" height="871" alt="image" src="https://github.com/user-attachments/assets/aaea5c30-cd2d-43fc-a08c-1dde34e4f991" />
+<img width="1903" height="900" alt="image" src="https://github.com/user-attachments/assets/7fad4490-7341-4786-947b-7b52a3caf5ce" />
+
 
 ---
 
@@ -69,7 +75,7 @@ esg_app/
 │── pages/                  # Páginas do app
 │   ├── 1_Carteira_ESG.py
 │   ├── 2_Sobre_Empresas.py
-│   └── 3_O_que_e_ESG.py
+│   └── 3_ESG.py
 ```
 
 ---
